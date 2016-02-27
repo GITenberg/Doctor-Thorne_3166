@@ -1,0 +1,34 @@
+_repo: Doctor-Thorne_3166
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Doctor Thorne is the third novel in the series known as the Chronicles
+  of Barsetshire. In it Mary Thorne, the niece of Dr. Thomas Thorne, is raised by
+  her kind uncle, not knowing the true circumstances of her birth. She falls in love
+  with rich Frank Gresham, but there are complications in their romance.
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Barsetshire (England: Imaginary place) -- Fiction'
+- !lcsh 'Physicians -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Nieces -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Great Britain -- History -- 19th century -- Fiction'
+- !lcsh 'Domestic fiction'
+title: Doctor Thorne
+url: http://www.gutenberg.org/ebooks/3166
