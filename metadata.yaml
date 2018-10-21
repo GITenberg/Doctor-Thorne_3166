@@ -1,5 +1,5 @@
 _repo: Doctor-Thorne_3166
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -36,5 +36,6 @@ subjects:
 - !lcsh 'Inheritance and succession -- Fiction'
 - !lcsh 'Great Britain -- History -- 19th century -- Fiction'
 - !lcsh 'Domestic fiction'
+- GITenberg
 title: Doctor Thorne
 url: http://www.gutenberg.org/ebooks/3166
